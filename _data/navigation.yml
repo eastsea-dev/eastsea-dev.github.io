@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://eastsea-dev.github.io/about/
+    url: /about/
   - title: "Project"
-    url: https://eastsea-dev.github.io/project/
-  - title: "Categofies"
-    url: https://eastsea-dev.github.io/categories/
+    url: /project/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap/
