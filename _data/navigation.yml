@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Project"
     url: /project/
+  - title: "TIL"
+    url: /til/
   - title: "Categories"
     url: /categories/
   # - title: "Sitemap"
