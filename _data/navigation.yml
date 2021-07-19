@@ -2,11 +2,11 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "About"
+    url: https://eastsea-dev.github.io/about/
+  - title: "Project"
+    url: https://eastsea-dev.github.io/project/
+  - title: "Categofies"
+    url: https://eastsea-dev.github.io/categories/
   # - title: "Sitemap"
   #   url: /sitemap/
