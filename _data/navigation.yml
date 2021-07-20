@@ -2,11 +2,11 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Archive"
+    url: /archive/
   - title: "Project"
     url: /project/
   - title: "TIL"
     url: /til/
   - title: "Categories"
     url: /categories/
-  # - title: "Sitemap"
-  #   url: /sitemap/
